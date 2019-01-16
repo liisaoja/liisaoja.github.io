@@ -1,0 +1,90 @@
+[15-Jan-2019 12:39:02 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/ubuntu/workspace/CodeIgniter/application/controllers/Member.php on line 12
+[15-Jan-2019 12:39:02 UTC] PHP Stack trace:
+[15-Jan-2019 12:39:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/CodeIgniter/index.php:0
+[15-Jan-2019 12:39:02 UTC] PHP   2. require_once() /home/ubuntu/workspace/CodeIgniter/index.php:315
+[15-Jan-2019 12:39:02 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 12:39:02 UTC] PHP   4. Member->index() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 12:43:28 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/ubuntu/workspace/CodeIgniter/application/controllers/Member.php on line 12
+[15-Jan-2019 12:43:28 UTC] PHP Stack trace:
+[15-Jan-2019 12:43:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/CodeIgniter/index.php:0
+[15-Jan-2019 12:43:28 UTC] PHP   2. require_once() /home/ubuntu/workspace/CodeIgniter/index.php:315
+[15-Jan-2019 12:43:28 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 12:43:28 UTC] PHP   4. Member->index() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 12:43:39 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/ubuntu/workspace/CodeIgniter/application/controllers/Member.php on line 12
+[15-Jan-2019 12:43:39 UTC] PHP Stack trace:
+[15-Jan-2019 12:43:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/CodeIgniter/index.php:0
+[15-Jan-2019 12:43:39 UTC] PHP   2. require_once() /home/ubuntu/workspace/CodeIgniter/index.php:315
+[15-Jan-2019 12:43:39 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 12:43:39 UTC] PHP   4. Member->index() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 12:55:25 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/ubuntu/workspace/CodeIgniter/application/controllers/Member.php on line 12
+[15-Jan-2019 12:55:25 UTC] PHP Stack trace:
+[15-Jan-2019 12:55:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/CodeIgniter/index.php:0
+[15-Jan-2019 12:55:25 UTC] PHP   2. require_once() /home/ubuntu/workspace/CodeIgniter/index.php:315
+[15-Jan-2019 12:55:25 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 12:55:25 UTC] PHP   4. Member->index() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 12:57:22 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/ubuntu/workspace/CodeIgniter/application/controllers/Member.php on line 12
+[15-Jan-2019 12:57:22 UTC] PHP Stack trace:
+[15-Jan-2019 12:57:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/CodeIgniter/index.php:0
+[15-Jan-2019 12:57:22 UTC] PHP   2. require_once() /home/ubuntu/workspace/CodeIgniter/index.php:315
+[15-Jan-2019 12:57:22 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 12:57:22 UTC] PHP   4. Member->index() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 12:58:38 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/ubuntu/workspace/CodeIgniter/application/controllers/Member.php on line 12
+[15-Jan-2019 12:58:38 UTC] PHP Stack trace:
+[15-Jan-2019 12:58:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/CodeIgniter/index.php:0
+[15-Jan-2019 12:58:38 UTC] PHP   2. require_once() /home/ubuntu/workspace/CodeIgniter/index.php:315
+[15-Jan-2019 12:58:38 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 12:58:38 UTC] PHP   4. Member->index() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 12:59:44 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/ubuntu/workspace/CodeIgniter/application/controllers/Member.php on line 12
+[15-Jan-2019 12:59:44 UTC] PHP Stack trace:
+[15-Jan-2019 12:59:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/CodeIgniter/index.php:0
+[15-Jan-2019 12:59:44 UTC] PHP   2. require_once() /home/ubuntu/workspace/CodeIgniter/index.php:315
+[15-Jan-2019 12:59:44 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 12:59:44 UTC] PHP   4. Member->index() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:01:27 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/ubuntu/workspace/CodeIgniter/application/controllers/Member.php on line 12
+[15-Jan-2019 13:01:27 UTC] PHP Stack trace:
+[15-Jan-2019 13:01:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/CodeIgniter/index.php:0
+[15-Jan-2019 13:01:27 UTC] PHP   2. require_once() /home/ubuntu/workspace/CodeIgniter/index.php:315
+[15-Jan-2019 13:01:27 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:01:27 UTC] PHP   4. Member->index() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:01:54 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/ubuntu/workspace/CodeIgniter/application/controllers/Member.php on line 12
+[15-Jan-2019 13:01:54 UTC] PHP Stack trace:
+[15-Jan-2019 13:01:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/CodeIgniter/index.php:0
+[15-Jan-2019 13:01:54 UTC] PHP   2. require_once() /home/ubuntu/workspace/CodeIgniter/index.php:315
+[15-Jan-2019 13:01:54 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:01:54 UTC] PHP   4. Member->index() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:02:32 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/ubuntu/workspace/CodeIgniter/application/controllers/Member.php on line 12
+[15-Jan-2019 13:02:32 UTC] PHP Stack trace:
+[15-Jan-2019 13:02:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/CodeIgniter/index.php:0
+[15-Jan-2019 13:02:32 UTC] PHP   2. require_once() /home/ubuntu/workspace/CodeIgniter/index.php:315
+[15-Jan-2019 13:02:32 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:02:32 UTC] PHP   4. Member->index() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:03:08 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/ubuntu/workspace/CodeIgniter/application/controllers/Member.php on line 12
+[15-Jan-2019 13:03:08 UTC] PHP Stack trace:
+[15-Jan-2019 13:03:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/CodeIgniter/index.php:0
+[15-Jan-2019 13:03:08 UTC] PHP   2. require_once() /home/ubuntu/workspace/CodeIgniter/index.php:315
+[15-Jan-2019 13:03:08 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:03:08 UTC] PHP   4. Member->index() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:05:12 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/ubuntu/workspace/CodeIgniter/application/controllers/Member.php on line 12
+[15-Jan-2019 13:05:12 UTC] PHP Stack trace:
+[15-Jan-2019 13:05:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/CodeIgniter/index.php:0
+[15-Jan-2019 13:05:12 UTC] PHP   2. require_once() /home/ubuntu/workspace/CodeIgniter/index.php:315
+[15-Jan-2019 13:05:12 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:05:12 UTC] PHP   4. Member->index() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:09:52 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/ubuntu/workspace/CodeIgniter/application/controllers/Member.php on line 12
+[15-Jan-2019 13:09:52 UTC] PHP Stack trace:
+[15-Jan-2019 13:09:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/CodeIgniter/index.php:0
+[15-Jan-2019 13:09:52 UTC] PHP   2. require_once() /home/ubuntu/workspace/CodeIgniter/index.php:315
+[15-Jan-2019 13:09:52 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:09:52 UTC] PHP   4. Member->index() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:12:41 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/ubuntu/workspace/CodeIgniter/application/controllers/Member.php on line 12
+[15-Jan-2019 13:12:41 UTC] PHP Stack trace:
+[15-Jan-2019 13:12:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/CodeIgniter/index.php:0
+[15-Jan-2019 13:12:41 UTC] PHP   2. require_once() /home/ubuntu/workspace/CodeIgniter/index.php:315
+[15-Jan-2019 13:12:41 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:12:41 UTC] PHP   4. Member->index() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:16:42 UTC] PHP Fatal error:  Call to a member function get_all() on a non-object in /home/ubuntu/workspace/CodeIgniter/application/controllers/Member.php on line 12
+[15-Jan-2019 13:16:42 UTC] PHP Stack trace:
+[15-Jan-2019 13:16:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/CodeIgniter/index.php:0
+[15-Jan-2019 13:16:42 UTC] PHP   2. require_once() /home/ubuntu/workspace/CodeIgniter/index.php:315
+[15-Jan-2019 13:16:42 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532}() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
+[15-Jan-2019 13:16:42 UTC] PHP   4. Member->index() /home/ubuntu/workspace/CodeIgniter/system/core/CodeIgniter.php:532
